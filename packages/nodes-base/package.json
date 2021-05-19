@@ -439,6 +439,7 @@
       "dist/nodes/MQTT/MqttTrigger.node.js",
       "dist/nodes/MoveBinaryData.node.js",
       "dist/nodes/Msg91/Msg91.node.js",
+      "dist/nodes/IntegrationDoc/IntegrationDoc.node.js",
       "dist/nodes/MySql/MySql.node.js",
       "dist/nodes/Nasa/Nasa.node.js",
       "dist/nodes/NextCloud/NextCloud.node.js",
